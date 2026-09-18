@@ -22,11 +22,11 @@ A multi-screen Flutter application featuring **Firebase Authentication**, **Clou
 
 ## 📸 Screenshots
 
-> Add your screenshots or a screen recording / GIF here after running the app.
-
-| Login | Notes list | Edit note | Settings (theme toggle) |
-|-------|-----------|-----------|-------------------------|
-| _screenshot_ | _screenshot_ | _screenshot_ | _screenshot_ |
+> <img width="1910" height="543" alt="Screenshot 2026-09-18 215840" src="https://github.com/user-attachments/assets/00ab3380-06c3-4069-994a-e77184d1d43f" />
+<img width="1905" height="970" alt="Screenshot 2026-09-18 215830" src="https://github.com/user-attachments/assets/b0a0c83e-5ba2-48a0-994d-d77e7529da9e" />
+<img width="1897" height="390" alt="Screenshot 2026-09-18 215818" src="https://github.com/user-attachments/assets/3e04afdb-a44c-4dcb-a5d0-f8dd5073eb80" />
+<img width="1912" height="966" alt="Screenshot 2026-09-18 214312" src="https://github.com/user-attachments/assets/2c3b9eab-4cd3-4bdc-a7f3-79db508fa4f9" />
+<img width="1917" height="975" alt="Screenshot 2026-09-18 214043" src="https://github.com/user-attachments/assets/59f1322a-ad63-4ac9-8762-24e9807f4ab6" />
 
 ---
 
@@ -99,11 +99,7 @@ Collection `notes`, one document per note:
 }
 ```
 
-<img width="1910" height="543" alt="Screenshot 2026-09-18 215840" src="https://github.com/user-attachments/assets/00ab3380-06c3-4069-994a-e77184d1d43f" />
-<img width="1905" height="970" alt="Screenshot 2026-09-18 215830" src="https://github.com/user-attachments/assets/b0a0c83e-5ba2-48a0-994d-d77e7529da9e" />
-<img width="1897" height="390" alt="Screenshot 2026-09-18 215818" src="https://github.com/user-attachments/assets/3e04afdb-a44c-4dcb-a5d0-f8dd5073eb80" />
-<img width="1912" height="966" alt="Screenshot 2026-09-18 214312" src="https://github.com/user-attachments/assets/2c3b9eab-4cd3-4bdc-a7f3-79db508fa4f9" />
-<img width="1917" height="975" alt="Screenshot 2026-09-18 214043" src="https://github.com/user-attachments/assets/59f1322a-ad63-4ac9-8762-24e9807f4ab6" />
+
 
 
 ---
